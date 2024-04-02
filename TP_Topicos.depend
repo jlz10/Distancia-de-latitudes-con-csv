@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1708383989 source:c:\users\jorge\onedrive\escritorio\programacion verano\tp_topicos\function.c
+	"Header.h"
+
+1708383852 source:c:\users\jorge\onedrive\escritorio\programacion verano\tp_topicos\main.c
+	"Header.h"
+
+1708383952 c:\users\jorge\onedrive\escritorio\programacion verano\tp_topicos\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1708130214 source:c:\users\cristian\downloads\tp_topicos\tp_topicos2\tp_topicos\main.c
+	"Header.h"
+
+1708134747 c:\users\cristian\downloads\tp_topicos\tp_topicos2\tp_topicos\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1708135075 source:c:\users\cristian\downloads\tp_topicos\tp_topicos2\tp_topicos\function.c
+	"Header.h"
+
+1708298842 source:c:\users\cristian\music\tp_topicos\tp_topicos\function.c
+	"Header.h"
+
+1708298789 c:\users\cristian\music\tp_topicos\tp_topicos\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1708298712 source:c:\users\cristian\music\tp_topicos\tp_topicos\main.c
+	"Header.h"
+
+1708383366 source:c:\users\jorge\downloads\tp_topicos\tp_topicos\tp_topicos\function.c
+	"Header.h"
+
+1708383380 c:\users\jorge\downloads\tp_topicos\tp_topicos\tp_topicos\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1708383366 source:c:\users\jorge\downloads\tp_topicos\tp_topicos\tp_topicos\main.c
+	"Header.h"
+
+1708383989 source:c:\users\jorge\onedrive\escritorio\programacion verano\tp_topicos\tp_topicos\tp_topicos\function.c
+	"Header.h"
+
+1708383952 c:\users\jorge\onedrive\escritorio\programacion verano\tp_topicos\tp_topicos\tp_topicos\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1708383852 source:c:\users\jorge\onedrive\escritorio\programacion verano\tp_topicos\tp_topicos\tp_topicos\main.c
+	"Header.h"
+
+1708394424 source:c:\users\cristian\music\tp_topicosfinal\tp_topicos\main.c
+	"Header.h"
+
+1708397520 c:\users\cristian\music\tp_topicosfinal\tp_topicos\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1708396312 source:c:\users\cristian\music\tp_topicosfinal\tp_topicos\function.c
+	"Header.h"
+
+1708444463 source:c:\users\jorge\downloads\tp_topicos\tp_topicos\function.c
+	"Header.h"
+
+1708444463 c:\users\jorge\downloads\tp_topicos\tp_topicos\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1708443679 source:c:\users\jorge\downloads\tp_topicos\tp_topicos\main.c
+	"Header.h"
+
+1708448480 source:c:\users\jorge\downloads\tp_topicos\42656604_lopez_jorge\function.c
+	"Header.h"
+
+1708444463 c:\users\jorge\downloads\tp_topicos\42656604_lopez_jorge\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1708443679 source:c:\users\jorge\downloads\tp_topicos\42656604_lopez_jorge\main.c
+	"Header.h"
+
